@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 
-I'm Olaoluwa "Awesome" Akinfenwa, a full-stack web developer. I am passionate about crafting seamless user experiences through intuitive design and optimized functionality. You can find me gaming or diving into a good book when I'm not coding. My love for problem-solving extends beyond the computer screen, and I am always eager to tackle new challenges in and out of work.
+I'm Olaoluwa "Awesome" Akinfenwa, a full-stack web developer. I am passionate about crafting seamless user experiences through intuitive design and optimised functionality. You can find me gaming or diving into a good book when I'm not coding. My love for problem-solving extends beyond the computer screen, and I am always eager to tackle new challenges in and out of work.
 
 ## Skills
 
