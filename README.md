@@ -6,7 +6,7 @@ I build web platforms for teams that can’t afford downtime, confusion, or tech
 
 ### Current Initiatives
 * **[Sudo Reset](https://hawsome.github.io/):** An enterprise-grade, asynchronous WordPress reset tool built for developers. Engineered with Sudo-Mode AppSec, AJAX chunked processing to defeat server timeouts, and multi-tenant database safeguards. *(Currently in review for the official WP.org repository).*
-* **[Sentinel Sync Engine]:** Fault-tolerant data pipeline with DLQ recovery.
+* **Sentinel Sync Engine:** Fault-tolerant data pipeline with DLQ recovery.
 * **[TechAid Connect](https://techaidconnect.com/):** A platform connecting nonprofits with vetted tech professionals. I led this end-to-end: system architecture, user research, and product roadmap.
 
 ### Proven Track Record
