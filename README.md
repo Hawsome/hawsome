@@ -1,6 +1,6 @@
 # Hello, I'm Olaoluwa "Awesome" Akinfenwa 👋🏿
 
-**Full-Stack Developer · Founder · Open-Source Contributor**
+**Full-Stack Web Developer · PHP, WordPress & WooCommerce · Founder, TechAid Connect**
 
 I build web applications and platforms for businesses that can't afford downtime, data loss, or technical debt. I work across the full stack from hand-written HTML/CSS/JS/PHP/MySQL applications to WordPress/WooCommerce at enterprise scale, and I pick the right tool for the job, not the familiar one.
 
@@ -27,7 +27,7 @@ As Technical Associate, led the end-to-end overhaul of **[KCLAN.co](https://kcla
 Built and maintained a web platform for a publishing company based in Massachusetts, USA. One of 7 freelance engagements (2022–2025) spanning WordPress and custom PHP - **$5,000+ earned, every project rated 5 stars**.
 
 ### Hawsome Site Reset - WordPress.org Plugin
-An enterprise-grade asynchronous WordPress reset tool for developers. Built with AJAX chunked processing to defeat server timeouts, Sudo-Mode AppSec, zero-footprint execution, and multi-tenant database safeguards.
+A WordPress developer reset tool with chunked AJAX processing for timeout-proof wipes, three-step security verification, pre-flight impact analysis, and zero-footprint execution. Session preserved throughout.
 
 → **[Live on WordPress.org](https://wordpress.org/plugins/hawsome-site-reset/)**
 
@@ -47,7 +47,7 @@ A fault-tolerant PHP data pipeline that mirrors data from a WordPress/Webflow CM
 ## Technical Arsenal
 
 - **Core:** PHP, JavaScript (ES6+), HTML5, CSS3, SQL / MySQL
-- **CMS & Ecosystems:** WordPress (Advanced Plugin & Theme Dev), Webflow
+- **CMS & Ecosystems:** WordPress (Advanced Plugin & Theme Dev), Webflow, WooCommerce
 - **Architecture:** Asynchronous Processing (AJAX), REST APIs, Database Optimisation, Application Security (AppSec)
 - **Environment:** Windows, Linux, Git Version Control
 
