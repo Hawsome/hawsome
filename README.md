@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer · PHP, WordPress & WooCommerce · Founder, TechAid Connect**
 
-I build web applications and platforms for businesses that can't afford downtime, data loss, or technical debt. I work across the full stack from hand-written HTML/CSS/JS/PHP/MySQL applications to WordPress/WooCommerce at enterprise scale, and I pick the right tool for the job, not the familiar one.
+I build web applications and platforms for businesses and organisations that can't afford downtime, data loss, or technical debt. I work across the full stack from hand-written HTML/CSS/JS/PHP/MySQL applications to WordPress/WooCommerce at enterprise scale, and I pick the right tool for the job, not the familiar one.
 
 Currently: **Technical Associate @ 234 Brands** · **Founder @ TechAid Connect**
 
